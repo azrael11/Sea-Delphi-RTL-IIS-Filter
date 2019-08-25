@@ -18,6 +18,7 @@ This folder contains:
 The final user deployment is donateware. Please contact me roberto.dellapasqua@live.com or www.dellapasqua.com
 
 A test with Indy, the most diffused TCP foundation for Delphi, on I7 cpu, shows an enhancement from 6934.29 ops/sec to 23097.68 ops/sec
+
 Another test with WebBroker http compression, on I7 cpu, shows an enhancement from 147 pages/sec to 722 pages/sec
 
 Best regards
