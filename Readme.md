@@ -22,5 +22,6 @@ A test with Indy, the most diffused TCP foundation for Delphi, on I7 cpu, shows 
 Another test with WebBroker http compression, on I7 cpu, shows an enhancement from 147 pages/sec to 722 pages/sec
 
 Best regards
+
 Roberto Della Pasqua
 
